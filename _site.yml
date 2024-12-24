@@ -7,5 +7,4 @@ navbar:
     - text: "About"
       href: about.html
 
-name: my-website
 output_dir: docs
