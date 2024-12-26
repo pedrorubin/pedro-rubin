@@ -1,6 +1,6 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Pedro Rubin"
   left:
     - text: "Home"
       href: index.html
@@ -8,3 +8,7 @@ navbar:
       href: about.html
 
 output_dir: docs
+
+output:
+  html_document:
+    theme: yeti
