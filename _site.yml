@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - href: https://orcid.org/0000-0002-7577-8859
+      icon: fa-orcid
     - href: https://github.com/pedrorubin
       icon: fa-github
     - href: https://www.linkedin.com/in/pedro-rubin-78309597/
