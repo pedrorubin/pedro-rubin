@@ -6,6 +6,12 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - href: https://github.com/pedrorubin
+      icon: fa-github
+    - href: https://www.linkedin.com/in/pedro-rubin-78309597/
+      icon: fa-linkedin
+    - href: https://twitter.com/pedrorubincosta
+      icon: fa-twitter
 
 output_dir: docs
 
