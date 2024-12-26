@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "Research"
       href: about.html
     - href: https://orcid.org/0000-0002-7577-8859
       icon: fa-orcid
