@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: about.html
+      href: research.html
     - href: https://orcid.org/0000-0002-7577-8859
       icon: fa-orcid
     - href: https://github.com/pedrorubin
