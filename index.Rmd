@@ -2,7 +2,7 @@
 title: "Pedro Rubin"
 ---
 
-Olá, sou Pedro Rubin. Tudo bom?
+Olá, sou o Pedro Rubin.
 
 Tenho mestrado em economia pelo PPGE - UFRJ e sou consultor da Macroplan Consultoria e Analytics, na área de estudos e dados.
 
