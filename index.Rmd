@@ -2,15 +2,13 @@
 title: "Pedro Rubin"
 ---
 
-Olá, sou Pedro Rubin.
+Olá, sou Pedro Rubin. Tudo bom?
 
 Tenho mestrado em economia pelo PPGE - UFRJ e sou consultor da Macroplan Consultoria e Analytics, na área de estudos e dados.
 
 Também sou pesquisador em financeirização e política social, com a professora Lena Lavinas.
 
-* Selected works
-
-Complete listing [here](https://pedrorubin.github.io/pedro-rubin/research.html)
+Lista completa de trabalhos [aqui](https://pedrorubin.github.io/pedro-rubin/research.html)
 
 ![](imagens/Lavinas_Araujo_Rubin.png)
 
