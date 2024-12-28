@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
+    - text: "Research "
       href: research.html
     - href: https://github.com/pedrorubin
       icon: fa-github
